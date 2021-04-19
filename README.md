@@ -12,7 +12,7 @@
 
 ## Live Link Demo
 
-[Live Link Demo](https://607d3b7a01d8c03acb80f1f6--vigorous-almeida-6dec26.netlify.app/)
+[Live Link Demo](https://react-calculator-73322.web.app/)
 
 ## Built With
 
